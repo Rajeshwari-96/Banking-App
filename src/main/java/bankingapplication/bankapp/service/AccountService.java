@@ -1,6 +1,7 @@
-package com.sjprogramming.bankapp.service;
+package bankingapplication.bankapp.service;
 import java.util.List;
-import com.sjprogramming.bankapp.entity.Account;
+
+import bankingapplication.bankapp.entity.Account;
 
 public interface AccountService {
 

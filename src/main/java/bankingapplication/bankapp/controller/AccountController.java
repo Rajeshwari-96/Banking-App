@@ -1,4 +1,4 @@
-package com.sjprogramming.bankapp.controller;
+package bankingapplication.bankapp.controller;
 
 import java.util.List;
 
@@ -15,8 +15,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.sjprogramming.bankapp.entity.Account;
-import com.sjprogramming.bankapp.service.AccountService;
+import bankingapplication.bankapp.entity.Account;
+import bankingapplication.bankapp.service.AccountService;
 
 /**
  * @author rohitpyarasani

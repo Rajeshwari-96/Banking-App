@@ -1,4 +1,4 @@
-package com.sjprogramming.bankapp.service;
+package bankingapplication.bankapp.service;
 
 import java.util.List;
 import java.util.Optional;
@@ -6,8 +6,8 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.sjprogramming.bankapp.entity.Account;
-import com.sjprogramming.bankapp.repo.AccountRepository;
+import bankingapplication.bankapp.entity.Account;
+import bankingapplication.bankapp.repo.AccountRepository;
 @Service
 public class AccountServiceImpl implements AccountService{
 	@Autowired
