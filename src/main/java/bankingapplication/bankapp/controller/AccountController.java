@@ -18,10 +18,6 @@ import org.springframework.web.bind.annotation.RestController;
 import bankingapplication.bankapp.entity.Account;
 import bankingapplication.bankapp.service.AccountService;
 
-/**
- * @author rohitpyarasani
- *
- */
 @RestController
 @RequestMapping("/account")
 
